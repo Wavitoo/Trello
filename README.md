@@ -124,7 +124,7 @@ Ouvrez votre navigateur et allez à http://localhost:3000 pour accéder à l'app
 
 ## License
 
-Ce projet est sous la licence MIT. Voir le fichier [LICENSE](https://github.com/Wavitoo/Trello/License) pour plus d'informations.
+Ce projet est sous la licence MIT. Voir le fichier [LICENSE](https://github.com/Wavitoo/Trello/blob/main/LICENSE) pour plus d'informations.
 
 ## Contributor
 
